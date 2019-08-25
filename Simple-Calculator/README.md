@@ -1,0 +1,3 @@
+# Simple-Calculator
+An android mobile app which can calculate factorials of integers, GCD of two integers and have store history facility of upto 5 operations.
+The app has two input operands in two textboxes. Type the operands(type only one operand if it is an unary operation like factorial or square root) then click on the operator like +/-/*///sqrt/GCD/! etc. The result will come both as a pop up dialog box and also in a text field below. Can check the last 5 operations by clicking on the history tab. Clear button clears both the input text boxes and also the output text field. Clear history button deletes the entries from history.
